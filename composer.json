@@ -1,5 +1,5 @@
 {
-  "name": "mix/micro-etcd",
+  "name": "mix-plus/etcd",
   "description": "Microservice registry-center and config-center using Etcd, developed based on Swoole",
   "type": "library",
   "keywords": [
